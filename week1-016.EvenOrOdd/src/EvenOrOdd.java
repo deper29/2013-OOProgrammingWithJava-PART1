@@ -20,6 +20,16 @@ public class EvenOrOdd {
         // System.out.println( 7%2 );
         // int value = 8
         // System.out.println( value%2 );
+        
+        System.out.print("Type a number: ");
+        int a = Integer.parseInt(reader.nextLine());
+        System.out.println("");
+        
+        if (a % 2 == 0){
+            System.out.println("Number " + a + " is even.");
+        } else{
+            System.out.println("Number " + a + " is odd.");
+        }
 
     }
 }

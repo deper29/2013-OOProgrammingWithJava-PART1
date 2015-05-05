@@ -10,3 +10,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/week1-003.Spruce/build/
+/week1-004.ChangingVariables/build/
+/week1-005.SecondsOfTheYear/build/
+/week1-006.Addition/build/
+/week1-007.Multiplication/build/
+/week1-008.Adder/build/
+/week1-009.Divider/build/
+/week1-010.CircleCircumference/build/
+/week1-011.BiggerNumber/build/
+/week1-012.SumOfTheAges/build/
+/week1-013.NhlStatisticsPart1/build/
+/week1-014.PositiveValue/build/
+/week1-015.AgeOfMajority/build/
+/week1-016.EvenOrOdd/build/

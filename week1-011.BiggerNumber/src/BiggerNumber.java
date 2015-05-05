@@ -7,5 +7,14 @@ public class BiggerNumber {
         Scanner reader = new Scanner(System.in);
 
         // Implement your program here. Remember to ask the input from user
+        System.out.print("Type a number: ");
+        int a = Integer.parseInt(reader.nextLine());
+        System.out.print("Type another number: ");
+        int b = Integer.parseInt(reader.nextLine());
+        // print an empty line
+        System.out.println("");
+        int larger = Math.max(a, b);
+        
+        System.out.println("The bigger number of the two numbers given was: " + larger);
     }
 }
